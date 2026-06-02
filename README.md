@@ -49,6 +49,7 @@ python main.py
 ## Educational Purpose
 
 Developed as a First-Year Team Project for learning Python, APIs, speech recognition, and AI integration.
+
 [Project JARVIS_ Your Intelligent Virtual       Assistant.pdf](https://github.com/user-attachments/files/28513400/Project.JARVIS_.Your.Intelligent.Virtual.Assistant.pdf)
 
 
