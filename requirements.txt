@@ -1,0 +1,6 @@
+SpeechRecognition
+PyAudio
+gTTS
+requests
+openai
+wikipedia
